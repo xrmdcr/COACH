@@ -12,6 +12,7 @@ export type WorkoutFormat = '4x5' | '3x5' | '3x3' | '1rep' | 'SPEED';
 export interface SessionExercise {
   exerciseId: string;
   format: WorkoutFormat;
+  note?: string;
 }
 
 export interface WorkoutSession {
