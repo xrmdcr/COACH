@@ -1,0 +1,5 @@
+{
+  "name": "LoadMaster - Calculateur de Charge",
+  "description": "Une application mobile minimaliste pour athlètes avancés permettant de calculer les charges d'entraînement précises basées sur le 1RM et l'état de forme du jour.",
+  "requestFramePermissions": []
+}
